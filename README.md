@@ -1,1 +1,1 @@
-# App Acedmy Homeworks
+# App Academy Homeworks
