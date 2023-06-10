@@ -13,7 +13,11 @@ class Stack
     end
 
     def peek
-        @array[0]
+        @array[-1]
+    end
+
+    def empty?
+        @array.empty?
     end
 end
 
